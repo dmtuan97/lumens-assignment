@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Hellix-Bold.ttf",
+      "sha1": "4217be81ace6cba1317d2edbec34564b00b303a4"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-Regular.ttf",
+      "sha1": "d3fca24f9ecc75d7c0b35dcbf6e388648d282ea1"
+    },
+    {
+      "path": "src/assets/fonts/Hellix-SemiBold.ttf",
+      "sha1": "1b0c5873ee0aae874e591a72b95b12b0b825eba1"
+    }
+  ]
+}
